@@ -1,0 +1,104 @@
+﻿@{ 
+    Layout = null;
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<div style="width:60%; margin-left:20%">
+    <br />
+    <h1 style="color:peru">FEED KIDS ESWATINI </h1>
+    <br />
+    <br />
+
+    @{ if (IsPost)
+        {
+            var fld1 = Request["name"];
+            var fld2 = Request["surname"];
+            var fld3 = Request["age"];
+            var fld4 = Request["phone"];
+            var fld5 = Request["skill"];
+            var all = fld1 + " " + fld2 + " " + fld3 + " " + fld4 + " " + fld5 + Environment.NewLine;
+            var Allfile = Server.MapPath("~/App_Data/Data.text");
+            File.AppendAllText(Allfile, all);
+
+        }
+    }
+    <h2 style="color:red; text-align:center">@ViewBag.Incorrect</h2>
+
+    @using (Html.BeginForm("signUp", "Home", FormMethod.Post))
+    {
+        <!-- Email input -->
+        <div class="form-outline mb-4">
+            <label class="form-label" for="form2Example1">Name</label>
+            <input type="text" name="name" id="form2Example1" class="form-control" />
+        </div>
+        <!-- Email input -->
+        <div class="form-outline mb-4">
+            <label class="form-label" for="form2Example1">Surname</label>
+            <input type="text" name="surname" id="form2Example1" class="form-control" />
+
+        </div>
+
+        <!-- Email input -->
+        <div class="form-outline mb-4">
+            <label class="form-label" for="form2Example1">Age</label>
+            <input type="number" name="age" id="form2Example1" class="form-control" />
+
+        </div>
+
+        <!-- Email input -->
+        <div class="form-outline mb-4">
+            <label class="form-label" for="form2Example1">Phone number</label>
+            <input type="tel" name="phone" id="form2Example1" class="form-control" />
+
+        </div>
+
+        <div class="form-outline mb-4">
+            <label class="form-label" for="form2Example1">Skill</label>
+            <select id="form2Example1" class="form-control" name="skill">
+                <option></option>
+                <option value="Cooking">Catering</option>
+                <option value="Cleaning">Cleaning</option>
+                <option value="Building">Procurement</option>
+                <option value="Building">Stock Management</option>
+            </select>
+
+        </div>
+
+        <!-- Email input -->
+        <div class="form-outline mb-4">
+            <label class="form-label" for="form2Example1">Email address</label>
+            <input type="email" name="username" id="form2Example1" class="form-control" />
+        </div>
+
+
+        <!-- Password input -->
+        <div class="form-outline mb-4">
+            <label class="form-label" for="form2Example2">Password</label>
+            <input type="password" name="password" id="form2Example2" class="form-control" />
+        </div>
+
+        <!-- 2 column grid layout for inline styling -->
+        <div class="row mb-4">
+            <div class="col d-flex justify-content-center">
+                <!-- Checkbox -->
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="form2Example31" checked />
+                    <label class="form-check-label" for="form2Example31"> Remember me </label>
+                </div>
+            </div>
+        </div>
+        <!-- Submit button -->
+        <button type="submit" class="btn btn-primary btn-block mb-4">Sign in</button>
+    }
+</div>
+<style>
+    h1 {
+        text-align: center;
+    }
+</style>
