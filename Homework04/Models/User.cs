@@ -1,15 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace Homework04.Models
+﻿namespace Homework04.Models
 {
     public class User
     {
-        public string username { set; get; }
-        public string password { set; get; }
+       public string username { get; set; }
+        public string password { get; set; }
 
-       
+        public User(string username, string password)
+        {
+            this.username = username;
+            this.password = password;
+
+        }
+        //default
+        public User()
+        {
+                
+        }
     }
 }

@@ -1,0 +1,407 @@
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Homework04.dll.config
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Homework04.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Homework04.pdb
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\csc.exe
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\csc.exe.config
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\csc.rsp
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\csi.exe
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\csi.exe.config
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\csi.rsp
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.AppContext.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Console.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.IO.Compression.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Net.Http.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Net.Sockets.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.ValueTuple.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Xml.XPath.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\vbc.exe
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\vbc.exe.config
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\vbc.rsp
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Antlr3.Runtime.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Newtonsoft.Json.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.Helpers.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.Mvc.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.Optimization.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.Razor.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.Razor.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\WebGrease.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.Helpers.xml
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.Mvc.xml
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.Optimization.xml
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.Razor.xml
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.xml
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.Razor.xml
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Newtonsoft.Json.xml
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Antlr3.Runtime.pdb
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.csproj.CopyComplete
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.dll
+C:\Users\acer\Documents\School work 2022\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.pdb
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Homework04.dll.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Homework04.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Homework04.pdb
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\csc.exe
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\csc.exe.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\csc.rsp
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\csi.exe
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\csi.exe.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\csi.rsp
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.AppContext.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Console.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.IO.Compression.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Net.Http.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Net.Sockets.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Xml.XPath.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\vbc.exe
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\vbc.exe.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\vbc.rsp
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Antlr3.Runtime.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Newtonsoft.Json.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.Helpers.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.Mvc.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.Optimization.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.Razor.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.Razor.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\WebGrease.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.Helpers.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.Mvc.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.Optimization.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.Razor.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\System.Web.WebPages.Razor.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Newtonsoft.Json.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Antlr3.Runtime.pdb
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.csproj.CopyComplete
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.pdb
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\INF 272_2022\Homework04\Homework04\obj\Debug\Homework04.csproj.AssemblyReference.cache
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Homework04.dll.config
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Homework04.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Homework04.pdb
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\csc.exe
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\csc.exe.config
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\csc.rsp
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\csi.exe
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\csi.exe.config
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\csi.rsp
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.AppContext.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Console.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.IO.Compression.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Net.Http.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Net.Sockets.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.ValueTuple.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Xml.XPath.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\vbc.exe
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\vbc.exe.config
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\vbc.rsp
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Antlr3.Runtime.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Newtonsoft.Json.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.Helpers.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.Mvc.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.Optimization.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.Razor.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.WebPages.Deployment.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.WebPages.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.WebPages.Razor.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\WebGrease.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.Helpers.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.Mvc.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.Optimization.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.Razor.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.WebPages.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.WebPages.Deployment.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\System.Web.WebPages.Razor.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Newtonsoft.Json.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Antlr3.Runtime.pdb
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\obj\Debug\Homework04.csproj.AssemblyReference.cache
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\obj\Debug\Homework04.csproj.CoreCompileInputs.cache
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\obj\Debug\Homework04.csproj.CopyComplete
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\obj\Debug\Homework04.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\obj\Debug\Homework04.pdb
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\EntityFramework.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\EntityFramework.SqlServer.dll
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\EntityFramework.xml
+C:\Users\siyan\Downloads\Compressed\Homework04\Homework04\bin\EntityFramework.SqlServer.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Homework04.dll.config
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Homework04.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Homework04.pdb
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\csc.exe
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\csc.exe.config
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\csc.rsp
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\csi.exe
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\csi.exe.config
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\csi.rsp
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.AppContext.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Console.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.IO.Compression.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Net.Http.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Net.Sockets.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.ValueTuple.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Xml.XPath.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\vbc.exe
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\vbc.exe.config
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\vbc.rsp
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Antlr3.Runtime.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\EntityFramework.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\EntityFramework.SqlServer.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Newtonsoft.Json.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.Helpers.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.Mvc.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.Optimization.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.Razor.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.WebPages.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.WebPages.Razor.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\WebGrease.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\EntityFramework.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\EntityFramework.SqlServer.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.Helpers.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.Mvc.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.Optimization.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.Razor.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.WebPages.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\System.Web.WebPages.Razor.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Newtonsoft.Json.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Antlr3.Runtime.pdb
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\obj\Debug\Homework04.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\obj\Debug\Homework04.csproj.CopyComplete
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\obj\Debug\Homework04.dll
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\obj\Debug\Homework04.pdb
+C:\Users\acer\Downloads\Homework04 .lastedit\Homework04\Homework04\obj\Debug\Homework04.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Homework04.dll.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Homework04.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Homework04.pdb
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\csc.exe
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\csc.exe.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\csc.rsp
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\csi.exe
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\csi.exe.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\csi.rsp
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.AppContext.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Console.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.IO.Compression.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Net.Http.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Net.Sockets.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.ValueTuple.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Xml.XPath.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\vbc.exe
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\vbc.exe.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\vbc.rsp
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Antlr3.Runtime.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\EntityFramework.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\EntityFramework.SqlServer.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Newtonsoft.Json.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.Helpers.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.Mvc.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.Optimization.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.Razor.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.WebPages.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.WebPages.Razor.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\WebGrease.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\EntityFramework.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\EntityFramework.SqlServer.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.Helpers.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.Mvc.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.Optimization.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.Razor.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.WebPages.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\System.Web.WebPages.Razor.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Newtonsoft.Json.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Antlr3.Runtime.pdb
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\obj\Debug\Homework04.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\obj\Debug\Homework04.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\obj\Debug\Homework04.csproj.CopyComplete
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\obj\Debug\Homework04.dll
+C:\Users\acer\OneDrive\Documents\School work 2022\INF 272_2022\HWA4\Homework04\Homework04\obj\Debug\Homework04.pdb

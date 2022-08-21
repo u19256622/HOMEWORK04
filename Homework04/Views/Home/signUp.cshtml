@@ -14,21 +14,7 @@
     <h1 style="color:peru">FEED KIDS ESWATINI </h1>
     <br />
     <br />
-
-    @{ if (IsPost)
-        {
-            var fld1 = Request["name"];
-            var fld2 = Request["surname"];
-            var fld3 = Request["age"];
-            var fld4 = Request["phone"];
-            var fld5 = Request["skill"];
-            var all = fld1 + " " + fld2 + " " + fld3 + " " + fld4 + " " + fld5 + Environment.NewLine;
-            var Allfile = Server.MapPath("~/App_Data/Data.text");
-            File.AppendAllText(Allfile, all);
-
-        }
-    }
-    <h2 style="color:red; text-align:center">@ViewBag.Incorrect</h2>
+   <!-- <h2 style="color:red; text-align:center">@ViewBag.Incorrect</h2> -->
 
     @using (Html.BeginForm("signUp", "Home", FormMethod.Post))
     {
@@ -64,8 +50,8 @@
                 <option></option>
                 <option value="Cooking">Catering</option>
                 <option value="Cleaning">Cleaning</option>
-                <option value="Building">Procurement</option>
-                <option value="Building">Stock Management</option>
+                <option value="Buying">Procurement</option>
+                <option value="Stock">Stock Management</option>
             </select>
 
         </div>
@@ -83,22 +69,16 @@
             <input type="password" name="password" id="form2Example2" class="form-control" />
         </div>
 
-        <!-- 2 column grid layout for inline styling -->
-        <div class="row mb-4">
-            <div class="col d-flex justify-content-center">
-                <!-- Checkbox -->
-                <div class="form-check">
-                    <input class="form-check-input" type="checkbox" value="" id="form2Example31" checked />
-                    <label class="form-check-label" for="form2Example31"> Remember me </label>
-                </div>
-            </div>
-        </div>
+      
         <!-- Submit button -->
-        <button type="submit" class="btn btn-primary btn-block mb-4">Sign in</button>
+        <button type="submit" class="btn btn-warning btn-square-md">Sign Up</button>
     }
 </div>
 <style>
     h1 {
         text-align: center;
+    }
+    body{
+        background-color:dimgrey;
     }
 </style>

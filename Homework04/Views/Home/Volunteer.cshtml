@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Homework04.Models.Volunteer>
+
+@{
+    ViewBag.Title = "Volunteer";
+}
+
+<h2>Volunteer</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Surname)
+        </th>
+        <th>
+            Date Of Birth
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+        <th></th>
+    </tr>
+
+ 
+@try
+{
+    foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Surname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dob)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.type)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {  id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new {  id=item.id  })
+        </td>
+    </tr>
+    }
+            }
+            catch { }
+
+</table>
+<style>
+    body{background-color:dimgrey;}
+</style>

@@ -1,0 +1,53 @@
+﻿@model Homework04.Models.Stock_Management
+
+@{
+    ViewBag.Title = "RegStock";
+}
+<h1 style="color:peru">FEED KIDS ESWATINI  </h1>
+<br />
+<h2>RegStock</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Stock_Management</h4>
+        <hr />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Products, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Products, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Products, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Location, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Location, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Location, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+<style>
+    h1 {
+        text-align: center;
+    }
+
+    body {
+        background-color: dimgrey;
+    }
+</style>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

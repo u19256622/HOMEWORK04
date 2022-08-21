@@ -1,4 +1,37 @@
 ﻿@{
     ViewBag.Title = "Index";
 }
-<p>hi</p>
+<br />
+<h1 style="color:peru">FEED KIDS ESWATINI  </h1>
+<br />
+<h2 style="text-align:center">Hello @ViewBag.name @ViewBag.surname</h2>
+<br />
+<h3 style="text-align:center">You are type @ViewBag.type</h3>
+<br />
+<h3 style="text-align:center">@ViewBag.display</h3>
+<br />
+<div>
+    <input type="button" value="Donate" class="btn btn-warning btn-square-md" onclick="location.href ='@Url.Action("Donate","Home")'" />
+    <input type="button" value="Volunteers" class="btn btn-warning btn-square-md" onclick="location.href ='@Url.Action("Volunteer","Home")'" />
+
+
+</div>
+<style>
+    .btn-square-md {
+        width: 200px !important;
+        max-width: 200% !important;
+        max-height: 200% !important;
+        height: 200px !important;
+        text-align: center;
+        padding: 0px;
+        font-size: 16px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+    body{
+        background-color:dimgrey;
+    }
+</style>
+

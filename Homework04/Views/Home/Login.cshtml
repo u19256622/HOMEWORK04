@@ -1,4 +1,4 @@
-﻿@{ 
+﻿@{
     Layout = null;
 }
 <head>
@@ -7,30 +7,37 @@
     <title>@ViewBag.Title - My ASP.NET Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+    @*<style type="text/css">
+        body {
+           background-image: url("/IMAGES/PICTURE.jpg");
+        }*@
+    <!--</style>-->
+    </>
 </head>
+
 <div style="width:60%; margin-left:20%">
-   
-    <h1 style="text-align:center">FEED KIDS ESWATINI</h1>
+
+    <h1 style="color:peru">FEED KIDS ESWATINI  </h1>
     <br />
     <br />
-    
+
 
     <h2 style="color:red; text-align:center">@ViewBag.Incorrect</h2>
-    
+
 
     @using (Html.BeginForm("Login", "Home", FormMethod.Post))
     {
         <!-- Email input -->
-<div class="form-outline mb-4">
-    <label class="form-label" for="form2Example1">Email address</label>
-    <input type="email" name="username" id="form2Example1" class="form-control" />
-</div>
+        <div class="form-outline mb-4">
+            <label class="form-label" for="form2Example1">Email address</label>
+            <input type="email" name="username" id="form2Example1" class="form-control" />
+        </div>
 
         <!-- Password input -->
-<div class="form-outline mb-4">
-    <label class="form-label" for="form2Example2">Password</label>
-    <input type="password" name="password" id="form2Example2" class="form-control" />
-</div>
+        <div class="form-outline mb-4">
+            <label class="form-label" for="form2Example2">Password</label>
+            <input type="password" name="password" id="form2Example2" class="form-control" />
+        </div>
 
         <!-- 2 column grid layout for inline styling -->
         <div class="row mb-4">
@@ -44,12 +51,17 @@
         </div>
 
         <!-- Submit button -->
-  
-        <button type="submit" class="btn btn-primary btn-block mb-4"> Sign in </button>
-      
+
+        <button type="submit" class="btn btn-warning btn-square-md"> Sign in </button>
+
         <!-- Register buttons -->
         <div class="text-center">
             <p>Not a member? <a href="https://localhost:44340/Home/signUp">Register</a></p>
         </div>
     }
 </div>
+<style>
+    body {
+        background-color: dimgrey;
+    }
+</style>
